@@ -21,7 +21,7 @@ Me considero una persona:
 
 ## 📫 Contacto
 
-- ✉️ [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](camiabril02@gmail.com)
+- ✉️ [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https:camiabril02@gmail.com)
 - 💼 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/camilo-ceballos-691b9a1a8)
 - 📱 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/573133602843)
 
