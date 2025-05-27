@@ -15,7 +15,7 @@
 ## 🙋‍♂️ Sobre mí
 
 Me considero una persona:
-- Proactiva y con facilidad para la comunicación
+- Proactivo y con facilidad para la comunicación
 - Responsable y comprometido con los plazos
 - Capaz de trabajar de manera individual o en equipo
 
